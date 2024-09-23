@@ -1,4 +1,2 @@
 # Repositorio de ejemplo
 
-
-
