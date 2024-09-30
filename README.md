@@ -13,3 +13,7 @@
 
 - Toma el repositorio de pruebas
 - Edita el contenido de los ficheros README.md  y nuevo.md
+
+# Provocando un conflicto
+
+- Este texto lo escribo en la ubicacion principal("desplieque")
